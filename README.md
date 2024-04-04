@@ -12,5 +12,4 @@ Name's Emmanuel, Manuel for short. I'm a full stack dev with a focus on frontend
 - ⚡ Fun fact: I can be engaged with any topic in science
 
 # 📊 GitHub Stats:
-![Manuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuelScript&show_icons=true&theme=radical)
-
+![Manuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuelScript&theme=radical&hide_border=true&include_all_commits=true&count_private=false)
