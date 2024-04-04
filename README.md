@@ -1,16 +1,16 @@
 ### Hi there 👋
+Name's Emmanuel, Manuel for short. I'm a full stack dev with a focus on frontend technologies. I'm always open to collaborate on projects. Have fun checking out my profile. Cheers 🥂
+ 
+# 💫 About Me
 
-<!--
-**nuelScript/nuelScript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Medfair
+- 🌱 I’m currently learning Go
+- 👯 I’m looking to collaborate on fun and challenging projects
+- 💬 Ask me about anything physica and tech
+- 📫 How to reach me: manuelscript65@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I can be engaged with any topic in science
 
-Here are some ideas to get you started:
+# 📊 GitHub Stats:
+![Manuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuelScript&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
