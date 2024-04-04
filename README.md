@@ -6,7 +6,7 @@ Name's Emmanuel, Manuel for short. I'm a full stack dev with a focus on frontend
 - 🔭 I’m currently working on Medfair
 - 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on fun and challenging projects
-- 💬 Ask me about anything physica and tech
+- 💬 Ask me about anything physics and tech
 - 📫 How to reach me: manuelscript65@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can be engaged with any topic in science
