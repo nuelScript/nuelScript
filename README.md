@@ -20,6 +20,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nuelScript&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact) <br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nuelScript)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nuelScript)](https://github.com/nuelScript/github-profile-trophy)
 
 ## Connect with me  
 <div align="center">
