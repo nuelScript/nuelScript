@@ -20,7 +20,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nuelScript&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact) <br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nuelScript)](https://git.io/streak-stats)
-[![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuelScript)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me  
 <div align="center">
