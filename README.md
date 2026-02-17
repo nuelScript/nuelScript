@@ -4,7 +4,7 @@
 
 ## <div align="center">Hi there! 👋🏾</div> 
 
-### <div align="center">I'm Emmanuel, a skilled frontend engineer with 4+ years of experience. I'm highly proficient in the core technologies that power modern web development, including React, TypeScript/JavaScript, Next.js, and Tailwind CSS.</div>
+### <div align="center">I'm Emmanuel, a skilled product engineer with 4+ years of experience. I'm highly proficient in the core technologies that power modern web development, including React, TypeScript/JavaScript, Next.js, and Tailwind CSS.</div>
  
 # 💫 About Me
 
