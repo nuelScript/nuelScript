@@ -8,8 +8,8 @@
  
 # 💫 About Me
 
-- 🔭 I’m currently working on [Lingo](https://github.com/nuelScript/lingo)
-- 🌱 I’m currently learning Framer Motion and Solidity
+- 🔭 I’m currently shipping!
+- 🌱 I read and write a lot!
 - 💬 Ask me about anything related to Physics, Engineering and Design.
 - ⚡ Fun fact: I can answer any Naruto-based question
 
