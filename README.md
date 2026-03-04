@@ -11,7 +11,7 @@
 - 🔭 I’m currently shipping!
 - 🌱 I read and write a lot!
 - 💬 Ask me about anything related to Physics, Engineering and Design.
-- ⚡ Fun fact: I can answer any Naruto-based question
+- ⚡ Fun fact: I can answer any Naruto-based question... I'm serious though!
 
 <br />
 
